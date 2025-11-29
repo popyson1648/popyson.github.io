@@ -1,5 +1,7 @@
 # popyson
 
+瀬戸口 駿介 (Shunsuke Setoguchi)
+
 - [**X**](https://x.com/popyson1648)
 - [**LinkedIn**](https://linkedin.com/in/shunsuke-setoguchi/)
 - [**Wantedly**](https://www.wantedly.com/id/shunsuke_setoguchi_s)
