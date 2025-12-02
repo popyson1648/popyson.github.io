@@ -4,26 +4,24 @@
 
 瀬戸口 駿介 (Shunsuke Setoguchi)
 
-<a href="https://x.com/popyson1648" style="display:inline-block;">
-  <img src="https://about.x.com/content/dam/about-twitter/x/brand-toolkit/logo-black.png.twiimg.1920.png"
-       alt="alt" width="100" height="100"
-       style="border-radius:50%; padding:10px; background:#ffffff;">
-</a><a href="https://linkedin.com/in/shunsuke-setoguchi/" style="display:inline-block;">
-  <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/xbu/linkedin-revised-brand-guidelines/in-logo/fg/brand-inlogo-download-fg-dsk-v01.png/jcr:content/renditions/brand-inlogo-download-fg-dsk-v01-2x.png"
-       alt="alt" width="100" height="100"
-       style="border-radius:50%; padding:10px; background:#ffffff;">
-</a><a href="https://www.wantedly.com/id/shunsuke_setoguchi_s" style="display:inline-block;">
-  <img src="https://d1dlw0u96vqtxd.cloudfront.net/images/shared/wantedly-w-logo-v2.png"
-       alt="alt" width="100" height="100"
-       style="border-radius:50%; padding:10px; background:#ffffff;">
-</a><a href="https://youtrust.jp/users/shunsuke-setoguchi" style="display:inline-block;">
-  <img src="https://youtrust.jp/firstseek/side_job/wp-content/themes/cocoon-master/common/img/icon_youtrust-s.png"
-       alt="alt" width="100" height="100"
-       style="border-radius:50%; padding:10px; background:#ffffff;">
-</a><a href="https://github.com/popyson1648" style="display:inline-block;">
-  <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png"
-       alt="alt" width="100" height="100"
-       style="border-radius:50%; padding:10px; background:#ffffff;">
+<a href="https://github.com/popyson1648">
+  <img src="https://i.gyazo.com/0650e106ff368a6dcff279c1c8181823.png" width="100" />
+</a>
+
+<a href="https://www.wantedly.com/id/shunsuke_setoguchi_s">
+  <img src="https://i.gyazo.com/debdaf53bbcce8ff3510b4d17ad5b27b.png" width="100" />
+</a>
+
+<a href="https://x.com/popyson1648">
+  <img src="https://i.gyazo.com/4d15f2a8fc983d2d73795e72550658ef.png" width="100" />
+</a>
+
+<a href="https://youtrust.jp/users/shunsuke-setoguchi">
+  <img src="https://i.gyazo.com/46f5ae19aa5b36c807e86a5802577e9c.png" width="100" />
+</a>
+
+<a href="https://www.linkedin.com/in/shunsuke-setoguchi/">
+  <img src="https://i.gyazo.com/ca48d1a7ef736f13bd57d421be92bd42.png" width="100" />
 </a>
 
 
